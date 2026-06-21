@@ -150,9 +150,5 @@ Dashboard Preview
 
 
 Author
-
 Yashwant Manhas
-Aspiring Data Analyst | Excel | SQL | Power BI | Python | Data Visualization
-Identify trends
-Improve decision-making
-Drive business growth
+ Data Analyst | Excel | SQL | Power BI | Python | Data Visualization
